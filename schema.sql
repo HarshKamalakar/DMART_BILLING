@@ -1,3 +1,5 @@
+Create db Dmart;
+Use db Dmart;
 
 -- Drop tables if they exist (for clean setup)
 DROP TABLE IF EXISTS bill_items;
